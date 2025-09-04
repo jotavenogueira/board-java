@@ -1,3 +1,4 @@
+
 package br.com.dio.persistence.entity;
 
 import lombok.Data;
